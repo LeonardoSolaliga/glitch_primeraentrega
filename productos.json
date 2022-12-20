@@ -1,0 +1,32 @@
+[
+  {
+    "title": "El monte",
+    "price": 5560,
+    "thumbnail": "imagen.jpg",
+    "description": "descripcion del producto",
+    "codigo": "codigo del producto",
+    "stock": 50,
+    "id": 1,
+    "timestamp": "19/12/2022, 14:14:19"
+  },
+  {
+    "title": "Las muñecas",
+    "price": 3535,
+    "thumbnail": "imagen2.jpg",
+    "description": "descripcion del producto",
+    "codigo": "codigo del producto",
+    "stock": 20,
+    "id": 2,
+    "timestamp": "20/12/2022, 1:35:00"
+  },
+  {
+    "title": "Los perdidos en el abismo",
+    "price": 5500,
+    "thumbnail": "imagen3.jpg",
+    "description": "descripcion del producto",
+    "codigo": "codigo del producto",
+    "stock": 13,
+    "id": 3,
+    "timestamp": "20/12/2022, 1:35:32"
+  }
+]
